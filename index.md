@@ -4,5 +4,8 @@ In 1918, a new influenza virus emerged. During this same time period World War I
 
 Download the image from-
 
-https://github.com/prateekmaj21/Spanish-Flu-1918-Influenza-Pandemic-/blob/master/flu.jpg
+![image](https://github.com/prateekmaj21/Spanish-Flu-1918-Influenza-Pandemic-/blob/master/assets/flu.jpg)
+
+
+(https://github.com/prateekmaj21/Spanish-Flu-1918-Influenza-Pandemic-/blob/master/assets/flu.jpg)
 
