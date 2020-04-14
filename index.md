@@ -10,10 +10,14 @@ In 1918, a new influenza virus emerged. During this same time period World War I
 ## The Team
 
 1. Prateek Majumder [LinkedIn](https://www.linkedin.com/in/prateek-majumder-1032a816b/)
+   Email Id- prateekmaj21@gmail.com
 
 2. Pritabrata Mallik [LinkedIn](https://www.linkedin.com/in/pritabrata-mallik/)
+   Email Id- mallik.pritabrata@gmail.com
 
 3. Sayanti Dutta [LinkedIn](https://www.linkedin.com/in/sayanti-dutta-589079170/)
+   Email Id- sayantidutta.dgp@gmail.com
 
 4. Sourin Roy [LinkedIn](https://www.linkedin.com/in/sourin-roy-81835119b/)
+   Email Id- roysourin99@gmail.com
 
