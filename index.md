@@ -4,7 +4,7 @@ In 1918, a new influenza virus emerged. During this same time period World War I
 
 ## Project Report Files
 
-1. [Introduction](https://drive.google.com/open?id=1sH2eGHrIwSWrX9wJ1edT-qVTSRf8K5Au) 
+1. [Introduction](https://github.com/prateekmaj21/Spanish-Flu-1918-Influenza-Pandemic/blob/master/Files/Economic%20Impact.pdf) 
 
 
 ## The Team
