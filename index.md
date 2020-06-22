@@ -20,6 +20,26 @@ Our findings are presented in the files given below.
    
 2. Project Visuals.
    [Visuals](https://drive.google.com/open?id=1zmnIgVSMa6SVZQXzf-eIs_RF4ZSRBYvo)
+   
+## Research Paper
+
+The work has also been published as a research paper in 
+
+International Journal of Chemical and Environmental Sciences (IJCAES)
+
+(ISSN Number (Online) - 2687-793)
+
+(ISSN Number (Print) - 2689-6389)
+
+It is present in Volume1, Issue3, May 2020.
+
+The paper title is "1918 Spanish Flu:A data driven study"
+
+Links-
+
+1. Jounnal- https://ijcaes.smartsociety.org/current-issues.html
+
+2. Paper- https://ijcaes.smartsociety.org/volume1_issue3.pdf
 
 
 ## The Team
