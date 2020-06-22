@@ -37,9 +37,9 @@ The paper title is "1918 Spanish Flu:A data driven study"
 
 Links-
 
-1. Jounnal- https://ijcaes.smartsociety.org/current-issues.html
+1. Jounnal- (https://ijcaes.smartsociety.org/current-issues.html)
 
-2. Paper- https://ijcaes.smartsociety.org/volume1_issue3.pdf
+2. Paper- (https://ijcaes.smartsociety.org/volume1_issue3.pdf)
 
 
 ## The Team
